@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="infrastruktur" />
+        <module name="domaincontext2" />
+        <module name="ekstern-web" />
+        <module name="web" />
+        <module name="ekstern-domaincontext" />
+        <module name="domaincontex1" />
+        <module name="ekstern-infrastruktur" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
